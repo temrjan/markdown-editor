@@ -19,7 +19,7 @@ jobs:
     steps:
       # Checkout repo sources.
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # Minimal build: create a single static HTML file.
       - name: Build docs (minimal)
