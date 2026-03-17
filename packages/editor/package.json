@@ -235,7 +235,7 @@
     "@types/sanitize-html": "2.11.0",
     "@markdown-editor/tsconfig": "workspace:*",
     "bem-cn-lite": "4.1.0",
-    "dpdm": "3.14.0",
+    "dpdm": "3.15.1",
     "esbuild": "0.21.5",
     "esbuild-sass-plugin": "2.15.0",
     "gulp": "5.0.0",
