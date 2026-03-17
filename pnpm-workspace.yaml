@@ -27,7 +27,7 @@ catalogs:
     '@diplodoc/transform': 4.69.0
 
   peer-gravity:
-    '@gravity-ui/components': 4.10.0
+    '@gravity-ui/components': 4.18.0
     '@gravity-ui/uikit': ^7.13.1
 
   ts:
