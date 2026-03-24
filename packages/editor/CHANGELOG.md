@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.36.1](https://github.com/gravity-ui/markdown-editor/compare/markdown-editor-v15.36.0...markdown-editor-v15.36.1) (2026-03-24)
+
+
+### Bug Fixes
+
+* **Clipboard:** copying no longer includes unrelated ancestor nodes ([#1020](https://github.com/gravity-ui/markdown-editor/issues/1020)) ([da0544e](https://github.com/gravity-ui/markdown-editor/commit/da0544edd83871124bf4110e8233f168bb226bbb))
+
 ## [15.36.0](https://github.com/gravity-ui/markdown-editor/compare/markdown-editor-v15.35.1...markdown-editor-v15.36.0) (2026-03-17)
 
 
